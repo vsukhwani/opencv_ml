@@ -9,3 +9,5 @@ To train classifier run GenDataDup.py
 
 To test and get numbers from image run TrainAndTest.py
 
+
+
